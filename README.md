@@ -1,4 +1,4 @@
-# Detect_and_organizer
+# Detect_and_organizer [ Beta Stage ]
 > This application let's you organize your files according to their type in separate folders after you have downloaded it.
 
 **Supported OS: Windows**
