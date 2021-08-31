@@ -10,7 +10,7 @@
 # To setup it, follow the steps given below:
     
     1. Go to your Downloads Folder or Wherever your's default download location is.
-    2. Make some folder with the following name.  **[ Name should be Spelled Exactly the same ]**
+    2. Make some folder with the following names.  **[ Name should be Spelled Exactly the same ]**
         
         > a. Documents       // to store document type files.
         > b. Pictures        // to store media and images type files
