@@ -3,7 +3,7 @@
 
 **Supported OS: Windows**
 
-**Supported Browser: Google Chrome, Brave, Chromium**
+**Supported Browsers:   Google Chrome, Brave, Chromium**
 
 
 # To setup it, follow the steps given below:
