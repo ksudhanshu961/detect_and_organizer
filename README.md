@@ -5,7 +5,7 @@
 
 **Supported Browsers:   Google Chrome, Brave, Chromium**
 
-**You don't need to run this app again & again to arrange your files. Just Setup it with simple steps given below**
+**You don't need to run this app again & again to arrange your files. Just Setup it with simple steps given below.**
 
 # To setup it, follow the steps given below:
     
