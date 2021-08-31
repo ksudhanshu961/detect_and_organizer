@@ -1,10 +1,11 @@
 # Detect_and_organizer
-> This application let's you organize your files according to their extension type in separate folders after you have downloaded 
+> This application let's you organize your files according to their type in separate folders after you have downloaded it.
 
 **Supported OS: Windows**
 
 **Supported Browsers:   Google Chrome, Brave, Chromium**
 
+**You don't need to run this app again & again to arrange your files. Just Setup it with simple steps given below**
 
 # To setup it, follow the steps given below:
     
