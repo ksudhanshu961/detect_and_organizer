@@ -17,7 +17,7 @@ This application let's you organize your files according to their extension type
   >> 3. Press win + R
   >> 4. And Type-> shell: common startup      // to open startup folder
   
-  ![IMG](https://github.com/ksudhanshu961/detect_and_organizer/blob/main/imgs/ss.jpg?raw=true)
+  >> ![IMG](https://github.com/ksudhanshu961/detect_and_organizer/blob/main/imgs/ss.jpg?raw=true)
   
   >> 5. Copy the downloaded application here.
   >> 6. All set. Now restart and you will see all your files are organized.
